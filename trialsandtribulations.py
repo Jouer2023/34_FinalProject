@@ -3,7 +3,7 @@ import openai
 import os
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'your-openai-key'
 
 
 # Function to interact with the GPT-3.5 model
