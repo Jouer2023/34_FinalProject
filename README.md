@@ -23,9 +23,8 @@ No dataset was used directly as the gpt 3.5 turbo model was used here.
 
 
 
-## Deployment
-A webpage was used to deploy the model. Tap on here to go to the webpage to test a prediction of your player choice.
-[Here!](https://www.google.com)
+## Video Link on Usage
+[Here!]([https://www.google.com](https://youtu.be/1ZTJ1tGipbI))
 
 ### Conclusion
 You can mess around and enlarge this project by adding more functionalities. You can change the user interface to fit your taste and train the bot for other purposes. 
