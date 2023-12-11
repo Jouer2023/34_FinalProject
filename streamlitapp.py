@@ -2,7 +2,7 @@
 import streamlit as st
 from openai import OpenAI
 
-client = OpenAI(api_key= "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")
+client = OpenAI(api_key= "your openai key")
 
 def get_completion(prompt, model="gpt-3.5-turbo", temperature=0):
     messages = [{"role": "user", "content": prompt}]
