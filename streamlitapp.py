@@ -76,7 +76,7 @@ def get_response_category(user_message):
     return category_response
 
 def main():
-    st.title("Mental Health Chatbot")
+    st.title("Yana Care")
 
     st.write("Hello! I'm Yana, your custom chatbot here to support you.")
 
